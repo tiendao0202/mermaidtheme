@@ -1,0 +1,31 @@
+body{
+  background-color:beige
+}
+
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-color:#E5E4E2;
+  border-width:8px;
+  width:5%;
+}
+h1{
+  color:#66BFBF;
+  font-family: "Gill Sans", sans-serif;
+  font-style: italic;
+}
+h2{
+  color:#66BFBF;
+  font-family: "Gill Sans", sans-serif;
+  font-style: italic;
+}
+h3{
+  color:#66BFBF;
+  font-family: "Gill Sans", sans-serif;
+  font-style: italic;
+}
+body{
+  color:#306754;
+  font-family: "Gill Sans", sans-serif;
+  font-style: italic;
+}
